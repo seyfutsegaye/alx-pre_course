@@ -1,1 +1,1 @@
-My first readme
+first directory in alx_precourse
